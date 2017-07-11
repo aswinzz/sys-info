@@ -10,8 +10,8 @@
  * Thanks For Trying this out!!
  
 # Download
- - Windows : [Link]()
- - Linux : [Link]()
+ - Windows : [Link](https://drive.google.com/open?id=0B5I5xRDrjsjyTERGSXk3WHV5ZWM)
+ - Linux : [Link](https://drive.google.com/open?id=0B5I5xRDrjsjyQzl1U2hsZWNVcWs)
  - Deb file(Linux) : [Link](https://drive.google.com/open?id=0B5I5xRDrjsjyZVdsMlVuWTZoZmM)
  
 
