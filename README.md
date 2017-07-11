@@ -12,7 +12,7 @@
 # Download
  - Windows : [Link]()
  - Linux : [Link]()
- - Deb file(Linux) : [Link]()
+ - Deb file(Linux) : [Link](https://drive.google.com/open?id=0B5I5xRDrjsjyZVdsMlVuWTZoZmM)
  
 
 # Screens
