@@ -8,6 +8,12 @@
  * Run `sudo npm start`
  * Sys-info window will open 
  * Thanks For Trying this out!!
+ 
+# Download
+ - Windows : [Link]()
+ - Linux : [Link]()
+ - Deb file(Linux) : [Link]()
+ 
 
 # Screens
  
